@@ -1,0 +1,1 @@
+- instead of a class creating an object to use it, i mean like creating an instance of another class because it needs it for smth. u can "inject" it by just declaring the object without initializing it nad using it in the constructor or setter method or smth.

@@ -1,0 +1,1 @@
+- You give up control of when objects are created or what objects, what dependencies and stuffs to an external framework

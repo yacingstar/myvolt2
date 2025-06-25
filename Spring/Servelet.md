@@ -1,0 +1,2 @@
+- is a java class that handles http requests and stuffs.
+- in spring boot it's very much abstracted using the @Controller methods.

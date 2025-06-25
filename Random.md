@@ -1,0 +1,3 @@
+- Horizontal scalibility: using more server rather than getting a more powerful one
+-  golder rule for scalability: every serbver contains exactly the same codebase and is not stateful meaning it dont store user related data and dont remember anything related to the user or whatever
+- 

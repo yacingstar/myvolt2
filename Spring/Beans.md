@@ -1,0 +1,6 @@
+- a bean is an objects thats instantiated and its ready to use in the container to be injected or whatever.
+- u create a bean when for example u declare a class with @component annotation, this lets spring know that u want an object of this class ready to be used in the container for like quick access.
+- a bean's name is by default the class name but the first letter lowercased or u can name it explicitly with @component("bean name").
+- so instead of creating an object using public Person person = new Person() ; u just type directly public Person person; with @autowired annotation before so spring knows u want the object in the container and then injects it there.
+- when the container creates the object, it creates a singleton object meaning only one object that would be injected wherever you want, we can ask the container to create a new instance everytime its injected by using @Scope("prototype") when declaring the bean class.
+- 

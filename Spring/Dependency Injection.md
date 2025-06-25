@@ -1,0 +1,2 @@
+- we use it when a class needs an object of another class', but instead of creating the object inside the class and limiting ourselves to that definition unless we edit the main class, we inject the object when declaring the main class' object in the constructor.
+- good for if we change our mind as to what object we inject we could test or whatever i like it.

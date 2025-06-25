@@ -1,0 +1,4 @@
+- it contains all the [[Beans]] and manages and injects and what have you.
+- ApplicationContext is the interface of which the other container classes derives the "blueprint".
+- in general we instantiate a container with the config we want and the config is defined java-based.
+- 

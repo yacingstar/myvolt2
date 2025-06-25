@@ -1,0 +1,4 @@
+- ([Access Modifiers]) (static) (final) type name (initial value);
+- it could be declared static, which means it belongs to the class not the instances. so all instances have access to the same static field.
+- it could be final, which means its value cant be changed and must be initialized once and for all.
+- in general final fields are also declared static since it wont be changed, and this basically defines a "constant".

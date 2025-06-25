@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "e9db1f4f250e5fb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "29bc1b38845466a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9197419ed93ded65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Decorator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decorator"
+            }
+          },
+          {
+            "id": "2d2e10c9f8c40e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Random"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8faf8e06bc03e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "023fcb63f9250794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "412aa6dc827bd6a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fc340251c59fb29e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8195c16a0720775",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebc8951ade35b8f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "303e90a294bd5cf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efd218e8db22a2a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring/Containers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Containers"
+            }
+          },
+          {
+            "id": "a0925939892df226",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring/Containers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Containers"
+            }
+          },
+          {
+            "id": "0aaed383d0b10afa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ee1b618b564f60f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/Containers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Containers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d2e10c9f8c40e4a",
+  "lastOpenFiles": [
+    "Design Patterns/Decorator.md",
+    "Random.md",
+    "System Design",
+    "Design Patterns",
+    "Spring/Spring Security/Filters.md",
+    "Spring/IoC.md",
+    "Java/Fields.md",
+    "Java/Classes.md",
+    "Spring/Servelet.md",
+    "Spring/Spring Security",
+    "Spring/Containers.md",
+    "Spring/Beans.md",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "Notes.md",
+    "telerecomp/Untitled.md",
+    "Spring/Dependency Injection.md",
+    "telerecomp",
+    "Untitled",
+    "Java/Dependency Injection.md",
+    "Spring",
+    "Java/java lifecycle.md",
+    "Java/Access Modifiers.md",
+    "Welcome.md",
+    "Java"
+  ]
+}

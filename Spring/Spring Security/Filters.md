@@ -1,0 +1,3 @@
+- a bunch of filters that the request or response go through, our main concern is the security filter which is the authenticationFilter.
+- the latter takes the input fields and gives it to a provider manager that decides which authentication provider is best to auth this username password or whatever it is.
+- 

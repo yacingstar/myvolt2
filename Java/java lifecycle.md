@@ -1,0 +1,3 @@
+- javac to compile it and checks for any error and turns it into byte-code which is platform independent
+- then the JVM comes in and the JIT converts bytecode into native machine code
+- and then jvm executes the program in memeory
